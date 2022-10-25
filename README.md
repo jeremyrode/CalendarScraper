@@ -1,4 +1,4 @@
-# CalendarScraper: Perform Time-Based Action via Scraping a Google Calenday
+# CalendarScraper: Perform Time-Based Action via Scraping a Google Calendar
 ## Backstory
 Handling time and date-based events sucks.  Calendars are complicated and change, daylight savings time comes and goes.  Originally, I was developing an app to schedule my Spa heater around time-of-use (TOU) electric rates.  The TOU rates change with season, on weekends and holidays.  At first, I was using cron daemon, but it was a real pain to make exceptions or change anything.
 
